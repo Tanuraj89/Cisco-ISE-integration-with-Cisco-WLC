@@ -29,4 +29,4 @@ This repository document has demonstrates how to integrate **Cisco Identity Serv
   - MAC filtering and VLAN mapping.  
   - ACL creation for web redirection and post-auth traffic.  
   - CoA (Change of Authorization) support for dynamic policy enforcement.  
-- RADIUS l
+
