@@ -1,4 +1,4 @@
-# Cisco ISE Integration with Cisco WLC for Guest Wi-Fi
+# Identity Access Management : Cisco ISE Integration with Cisco WLC for Guest Wi-Fi
 
 This repository document has demonstrates how to integrate **Cisco Identity Services Engine (ISE)** with a **Cisco Wireless LAN Controller (WLC)** to implement **Central Web Authentication (CWA)**. The setup enables secure guest access, BYOD onboarding, and centralized policy enforcement for wireless clients—ideal for enterprise and government organizations. I have completed this project in a government organization for almost 1000 users. The requirements were :
   i) Device Administration (Tacacs).
